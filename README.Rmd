@@ -34,4 +34,4 @@ And the development version from [GitHub](https://github.com/arulmanit/mypkg_aru
 # install.packages("devtools")
 devtools::install_github("arulmanit/mypkg_arul")
 ```
-Hey Arul can we change this? 
+Hey Arul can we change this? kjbiwbg;hw
