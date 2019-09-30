@@ -25,3 +25,5 @@ And the development version from
 # install.packages("devtools")
 devtools::install_github("arulmanit/mypkg_arul")
 ```
+
+Hey Arul can we change this.
