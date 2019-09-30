@@ -26,4 +26,4 @@ And the development version from
 devtools::install_github("arulmanit/mypkg_arul")
 ```
 
-Hey Arul can we change this.
+Hey Arul can we change this?
