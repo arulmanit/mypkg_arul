@@ -3,6 +3,8 @@
 
 # mypkg\_Arul
 
+This is a nice update from Boris
+
 <!-- badges: start -->
 
 <!-- badges: end -->
@@ -26,4 +28,4 @@ And the development version from
 devtools::install_github("arulmanit/mypkg_arul")
 ```
 
-Hey Arul can we change this?
+Hey Arul can we change this? kjbiwbg;hw
