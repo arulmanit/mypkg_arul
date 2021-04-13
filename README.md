@@ -3,8 +3,6 @@
 
 # mypkg\_Arul
 
-This is a nice update from Boris
-
 <!-- badges: start -->
 
 <!-- badges: end -->
@@ -28,4 +26,4 @@ And the development version from
 devtools::install_github("arulmanit/mypkg_arul")
 ```
 
-Hey Arul can we change this? kjbiwbg;hw
+** This repository is created during the course work to learn making packages in r
